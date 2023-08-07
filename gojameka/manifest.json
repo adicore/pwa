@@ -3,6 +3,7 @@
   "short_name": "GoJameka",
   "start_url": "https://www.gojameka.com",
   "display": "standalone",
+  "prefer_related_applications": false,
   "background_color": "#0c909f",
   "theme_color": "#0c909f",
   "description": "Find and book hotels and cheap airfare with more than hundreds of famous airlines at low rates with Gojameka.com",
